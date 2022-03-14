@@ -1,6 +1,5 @@
 <h2 align="center">Lucas Gabriel</h2>
 <br>
-<br>
  <h4 align="center"> 👋🏻 I'm a programmer student (JavaScript, CSS and HTML)... wait for more 🤚🏻...</h4>
 
 <!---
