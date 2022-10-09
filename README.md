@@ -1,6 +1,6 @@
 <h2 align="center">Lucas Gabriel</h2>
 <br>
- <h4 align="center"> Hello! 👋🏻 I'm a programmer student 👨🏻‍💻 (Node, TypeScript, JavaScript, C#, .NET 6, ASP.NET, ReactJS, SQLServer, SQLite, CSS and HTML)... wait for more 🤚🏻...</h4>
+ <h4 align="center"> Hello! 👋🏻 I'm a programmer student 👨🏻‍💻 (Node, TypeScript, JavaScript, C#, .NET 6, ASP.NET, ReactJS, SQLServer, SQLite, MYSql, CSS and HTML)... wait for more 🤚🏻...</h4>
 
 <div align="center">
   <a href="https://github.com/Lucas-Gabriel-dev">
