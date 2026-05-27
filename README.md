@@ -1,6 +1,6 @@
 <h2 align="center">Lucas Gabriel</h2>
 <br>
- <h4 align="center"> Hello! 👋🏻 I'm a mid level developer 👨🏻‍💻 (C#, .NET (4.x, 6.x, 7.x, 8.x, 9.x, 10.x), ASP.NET, SQL, NoSQL and AWS... wait for more 🤚🏻...</h4>
+ <h4 align="center"> Hello! 👋🏻 I'm a mid level developer 👨🏻‍💻 (C#, .NET (4.x, 6.x, 7.x, 8.x, 9.x, 10.x), ASP.NET, SQL, NoSQL and AWS)... wait for more 🤚🏻...</h4>
 
 <div align="center">
   <a href="https://github.com/Lucas-Gabriel-dev">
